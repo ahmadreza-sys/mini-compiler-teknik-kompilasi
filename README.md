@@ -33,7 +33,7 @@ t3 = t1 + t2
 
 ## Hasil Screenshot Program
 
-![Hasil Run](hasil-run.png)
+![Hasil Run](hasil-run.jpg)
 
 # Jawaban Pertanyaan Refleksi
 
