@@ -31,6 +31,10 @@ t1 = a ^ 2
 t2 = b * c
 t3 = t1 + t2
 
+## Hasil Screenshot Program
+
+![Hasil Run](hasil-run.png)
+
 # Jawaban Pertanyaan Refleksi
 
 ## 1. Mengapa fungsi power() harus dipanggil di dalam term(), bukan sebaliknya?
